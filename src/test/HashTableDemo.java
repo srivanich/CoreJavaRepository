@@ -15,7 +15,7 @@ public class HashTableDemo {
 		
 		for(Entry m : ht.entrySet()){
 			System.out.println(m.getKey()+" "+m.getValue());
-			System.out.println("Adding a new line from Local Repo");
+			System.out.println("Adding a new line from Local Repository");
 		}
 		
 		Enumeration e = ht.elements();
