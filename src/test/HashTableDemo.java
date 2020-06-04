@@ -17,6 +17,7 @@ public class HashTableDemo {
 			System.out.println(m.getKey()+" "+m.getValue());
 			System.out.println("Adding a new line from Local Repository");
 			System.out.println("Adding a new line from GitHub Repository");
+			System.out.println("Adding a second line from GitHub Repository");
 		}
 		
 		Enumeration e = ht.elements();
